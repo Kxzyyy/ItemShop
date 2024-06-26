@@ -2,7 +2,7 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_617_Athena_Commando_F_ForestQueen", "AthenaCharacter:BID_413_ForestQueen"
+            "AthenaCharacter:CID_617_Athena_Commando_F_ForestQueen", "AthenaBackpack:BID_413_ForestQueen"
         ],
         "price": 1500
     },
