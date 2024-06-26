@@ -5,7 +5,7 @@ na
 na
 na
 BID_229_LuckyRiderMale, 500
-CID_647_Athena_Commando_F_WingedFury, 1300
+CID_647_Athena_Commando_F_WingedFury, 1500
 Pickaxe_ID_215_Pug, 800
 EID_Hopper, 500
 CID_722_Athena_Commando_M_TeriyakiFishAssassin, 1200
